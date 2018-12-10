@@ -10,7 +10,7 @@
         name: "httpd" 
         state: "started" 
         enabled: yes  
-    - name: "Copy test.html" 
+    - name: "Copy testvers.html" 
       copy: 
         src: "test.html" 
         dest: "/var/www/html" 
