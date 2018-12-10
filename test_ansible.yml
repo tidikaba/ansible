@@ -1,4 +1,3 @@
-erreur
 erreur 
 - name: "Apache Installation"
   hosts: all  
@@ -20,3 +19,4 @@ erreur
         group: "apache"
         backup: yes
         
+nano 
