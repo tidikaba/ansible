@@ -1,7 +1,3 @@
-erreur1111 20
-eur
-erreur 
-erreur  
 - name: "Apache Installation"
   hosts: all  
   tasks:  
@@ -21,5 +17,4 @@ erreur
         owner: "apache" 
         group: "apache"
         backup: yes
-        
-nano 
+       
